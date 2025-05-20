@@ -4,7 +4,7 @@ function Footer(){
     return(
 
         <footer>
-            <p>&copy; {}Your Website name</p>
+            <p>&copy; {}PMB App</p>
 
         </footer>
     );
